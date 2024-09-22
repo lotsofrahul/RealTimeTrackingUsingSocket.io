@@ -1,3 +1,13 @@
+**Real-Time Location Tracking App**
+This application is a real-time location tracking system built with Node.js, Express, Socket.IO, and Leaflet.js. It allows users to share their location in real-time and view the locations of other connected users on an interactive map.
+
+**Features**
+
+Real-time location tracking using geolocation API
+Interactive map display using Leaflet.js
+Real-time updates with Socket.IO
+Automatic removal of disconnected users from the map
+
 ***Steps Followed***
 
 Check if browser supports geolocation.
